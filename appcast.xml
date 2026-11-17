@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Inbox Agent</title>
+    <item>
+      <title>Inbox Agent 0.2.0 (60)</title>
+      <pubDate>Tue, 17 Nov 2026 00:52:40 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Signed, notarized releases with automatic Sparkle updates (#5)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-60/InboxAgent.zip" length="1434778" type="application/octet-stream" sparkle:edSignature="5xwaE31GgwdY1diJGtg+MTiGV5g8zhacdh5u6PBQ1EdMmY/9Tsx7eef59LbvmOK5xZ8KBMV6CTF51lez/VfEAA=="/>
+    </item>
+  </channel>
+</rss>
