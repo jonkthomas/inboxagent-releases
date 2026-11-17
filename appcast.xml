@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Inbox Agent 0.2.0 (68)</title>
+      <pubDate>Tue, 17 Nov 2026 22:20:30 +0000</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Durable back-end pi agent: sessions, approvals, locked inbound profile (#13)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-68/InboxAgent.zip" length="1722301" type="application/octet-stream" sparkle:edSignature="Ofw2mLBG7tpgWt4xKxlgokjXOPvMlrmKJ7EV3wd2bQmaMq2Hj5y+QkoOhzfqVCk/50rUBKfDYXSJkb5BvNAaAA=="/>
+    </item>
+    <item>
       <title>Inbox Agent 0.2.0 (67)</title>
       <pubDate>Tue, 17 Nov 2026 19:51:22 +0000</pubDate>
       <sparkle:version>67</sparkle:version>
