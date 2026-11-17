@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Inbox Agent 0.2.0 (62)</title>
+      <pubDate>Tue, 17 Nov 2026 04:04:43 +0000</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- iPhone companion app: pair over Tailscale, full queue on the phone (#7)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-62/InboxAgent.zip" length="1597645" type="application/octet-stream" sparkle:edSignature="8ATzLcABbvVKws3wArw/KOt768XAPcnTLE3EVzHN1e2j0bpGBn7hpal1Bd7eEcJYq1wrv8jEy2/B+xTJm6DkCQ=="/>
+    </item>
+    <item>
       <title>Inbox Agent 0.2.0 (61)</title>
       <pubDate>Tue, 17 Nov 2026 01:51:21 +0000</pubDate>
       <sparkle:version>61</sparkle:version>
