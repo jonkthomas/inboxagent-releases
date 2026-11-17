@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Inbox Agent 0.2.0 (61)</title>
+      <pubDate>Tue, 17 Nov 2026 01:51:21 +0000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Light theme with a System / Light / Dark switch (#6)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-61/InboxAgent.zip" length="1466628" type="application/octet-stream" sparkle:edSignature="2I9UALuf/E+GYqAIaO3DIUuZjg5iV5smQXUB/q8xt1m+d9T6PO6w2ynw6n2v/oIfhcO4/iiQrdBJgD1fxZwzBA=="/>
+    </item>
+    <item>
       <title>Inbox Agent 0.2.0 (60)</title>
       <pubDate>Tue, 17 Nov 2026 00:52:40 +0000</pubDate>
       <sparkle:version>60</sparkle:version>
