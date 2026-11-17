@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Inbox Agent 0.2.0 (66)</title>
+      <pubDate>Tue, 17 Nov 2026 18:22:47 +0000</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Slack: post approved drafts despite smart quotes; one bad thread no longer blocks sync (#11)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-66/InboxAgent.zip" length="1702308" type="application/octet-stream" sparkle:edSignature="l0qyiovz7Gr5WYNQR56r02xNfwPToz6QSRQAqaVzxAbupRDBntiaUGPftaN0meo3M3GdPjb6zoezw28OoQD9Bg=="/>
+    </item>
+    <item>
       <title>Inbox Agent 0.2.0 (65)</title>
       <pubDate>Tue, 17 Nov 2026 14:13:41 +0000</pubDate>
       <sparkle:version>65</sparkle:version>
