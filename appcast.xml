@@ -3,6 +3,17 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Inbox Agent 0.2.0 (65)</title>
+      <pubDate>Tue, 17 Nov 2026 14:13:41 +0000</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- enable-phone: wait up to 120 s for the daemon's cold start (#10)
+- fix: enable-phone edits the installed LaunchAgent plist in place (#8)
+- Agent chat: live tool steps, attachments, saved API keys (#9)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-65/InboxAgent.zip" length="1700583" type="application/octet-stream" sparkle:edSignature="q0IxqHTXVJtbGQYXXqoESxcm585wCEcQvb35jdxTA5Iyl0P8d4Zu8KrkYk70aqZFN22m3HIqWEOitnflcmvODg=="/>
+    </item>
+    <item>
       <title>Inbox Agent 0.2.0 (62)</title>
       <pubDate>Tue, 17 Nov 2026 04:04:43 +0000</pubDate>
       <sparkle:version>62</sparkle:version>
