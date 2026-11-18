@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (82)</title>
+      <pubDate>Wed, 18 Nov 2026 15:05:26 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- run-daemon: config claude_config picks the vault runner; an unreadable vault logs one line and starts (#29)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-82/InboxAgent.zip" length="1782049" type="application/octet-stream" sparkle:edSignature="svqd5OmSN+TBMCeVfCyj9rmBP/mGSvQJEBRJTWUSO5wE1pFwpbwJL5N/FST61XLW/gFQ6WwM3vehZkz7C1+oBQ=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (81)</title>
       <pubDate>Wed, 18 Nov 2026 13:54:51 +0000</pubDate>
       <sparkle:version>81</sparkle:version>
