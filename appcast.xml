@@ -3,6 +3,16 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (78)</title>
+      <pubDate>Wed, 18 Nov 2026 05:53:12 +0000</pubDate>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- AI model is a Settings choice: Claude subscription, Codex or OpenRouter (GLM 5.3 Flash) (#24)
+- Settings opens inside the main window (#22)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-78/InboxAgent.zip" length="1776670" type="application/octet-stream" sparkle:edSignature="E7XMUePsFpwUhh9P07HQNYt7EWJQXHpHigTv/UZTDWLYLCoMRb26X4Zr1exhEn9HtsZWmMeOk+7chwyKYjSnBg=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (76)</title>
       <pubDate>Wed, 18 Nov 2026 04:25:20 +0000</pubDate>
       <sparkle:version>76</sparkle:version>
