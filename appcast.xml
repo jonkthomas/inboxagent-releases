@@ -3,6 +3,16 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (94)</title>
+      <pubDate>Wed, 18 Nov 2026 23:44:38 +0000</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Keep the Slack monitor alive when a poll returns no message list (#39)
+- S1.7: beta release on its own Sparkle feed (beta/appcast.xml, beta-v tags, cross-kind refusal) (#38)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-94/InboxAgent.zip" length="1854234" type="application/octet-stream" sparkle:edSignature="fbr21dXrHIviTRnx9cypryaUlSLFqthwZ78vOwq9wzW7PZXt2IKRkeOl6KQGgdmL3v1hIQoKWrixXqcIjCLoBw=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (92)</title>
       <pubDate>Wed, 18 Nov 2026 21:48:42 +0000</pubDate>
       <sparkle:version>92</sparkle:version>
