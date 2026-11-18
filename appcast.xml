@@ -3,6 +3,19 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (92)</title>
+      <pubDate>Wed, 18 Nov 2026 21:48:42 +0000</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- S1.4: few-shot voice from the user's own sent mail (#37)
+- Add Gmail IMAP handling and email setup (#35)
+- S1.5: Slack through your own internal app (PKCE, rotating tokens, API transport, Sending gate) (#36)
+- S1.6: connect Missive accounts and configure browser modes (#33)
+- S1.2: add stdlib IMAP/SMTP backend (#32)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-92/InboxAgent.zip" length="1853972" type="application/octet-stream" sparkle:edSignature="VFlJTQMk70POxdM7eFzj0ElROEMDPB1s4tnIWPXd9/swld/FbjnNfsxYdJdhuLnbt2DpWOydGjc8M2KUdndNBw=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (87)</title>
       <pubDate>Wed, 18 Nov 2026 17:22:37 +0000</pubDate>
       <sparkle:version>87</sparkle:version>
