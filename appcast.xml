@@ -3,6 +3,16 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (81)</title>
+      <pubDate>Wed, 18 Nov 2026 13:54:51 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- S0.2 runtime independence: every host tool optional, John's from config.json (#27)
+- Beta S0.4: mail account seam, Missive first (#26)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-81/InboxAgent.zip" length="1781839" type="application/octet-stream" sparkle:edSignature="R+cAoO0Lsm6Vri8oX8hWFWMYWvW/v7z7zrNGCCerqaMLwixbZFaXR4fYsBETC8ZexDXRdUUTJP0omfUdqPWwBA=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (79)</title>
       <pubDate>Wed, 18 Nov 2026 06:23:33 +0000</pubDate>
       <sparkle:version>79</sparkle:version>
