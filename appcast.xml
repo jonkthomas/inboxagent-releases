@@ -3,6 +3,17 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (87)</title>
+      <pubDate>Wed, 18 Nov 2026 17:22:37 +0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Missive archive opens the conversation on a fresh browser, not #inbox (#34)
+- S1.1 copy: Emptied AI in the Welcome sentence and Delete all (display name only) (#31)
+- S1.1: setup, AI key and spend meter (#30)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-87/InboxAgent.zip" length="1824024" type="application/octet-stream" sparkle:edSignature="zFeBQphljF75Cp/gV28DhTy8PdxI2z7jVuO151N3z+Ve8OEbmdaSOrDv3HLPZJZPWT0AnDEXwIlKs59zmGc/Bg=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (84)</title>
       <pubDate>Wed, 18 Nov 2026 16:32:06 +0000</pubDate>
       <sparkle:version>84</sparkle:version>
