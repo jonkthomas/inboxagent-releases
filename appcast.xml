@@ -3,6 +3,16 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (84)</title>
+      <pubDate>Wed, 18 Nov 2026 16:32:06 +0000</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Missive Sign in opens while an archive lead checks the API (#23)
+- S0.3 step 2: app-owned login agent (SMAppService); daemon URL from daemon.json (#28)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-84/InboxAgent.zip" length="1797516" type="application/octet-stream" sparkle:edSignature="SFWiosFLrs6BBJRn1chLGlxgvZuVAY0wbO4ONKopfmRr83YXiF+bIg8E5CDVqLZM9X2iTippKpCJR45Q6prfCw=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (82)</title>
       <pubDate>Wed, 18 Nov 2026 15:05:26 +0000</pubDate>
       <sparkle:version>82</sparkle:version>
