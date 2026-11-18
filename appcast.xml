@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (79)</title>
+      <pubDate>Wed, 18 Nov 2026 06:23:33 +0000</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Close cards John handled directly in Missive or Slack (#25)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-79/InboxAgent.zip" length="1777738" type="application/octet-stream" sparkle:edSignature="zNW3oxLffWfn4xzEJ3SUeJJUt2m2Eifbewf8Gw//bf0W1+qzpR+dqgPkMWnMFYIE9nB/GJwfADheH06ZMEZDAw=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (78)</title>
       <pubDate>Wed, 18 Nov 2026 05:53:12 +0000</pubDate>
       <sparkle:version>78</sparkle:version>
