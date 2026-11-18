@@ -3,6 +3,17 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (73)</title>
+      <pubDate>Wed, 18 Nov 2026 02:51:46 +0000</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- S0.3 spike: bundle Python, Node, Pi and playwright-core; signed and notarized (rehearsal) (#17)
+- Rename the app users see to Emptied AI (#18)
+- Mac app: standard Settings… menu and reopen the main window (#16)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-73/InboxAgent.zip" length="1733859" type="application/octet-stream" sparkle:edSignature="oeAG7IH+KRtCUiCB3SiDd4Hs09U4ePCzirboWsnGHMu7VMdlkZ0K5RA3mdn8ZMKz6hA9M+fYmTZzRy92PurADQ=="/>
+    </item>
+    <item>
       <title>Inbox Agent 0.2.0 (70)</title>
       <pubDate>Tue, 17 Nov 2026 23:50:00 +0000</pubDate>
       <sparkle:version>70</sparkle:version>
