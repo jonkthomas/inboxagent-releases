@@ -3,6 +3,17 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (76)</title>
+      <pubDate>Wed, 18 Nov 2026 04:25:20 +0000</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Missive archive: fixed recipe, own Archive button, visual confirmation; wait out model limits (#21)
+- Archive: say Archiving… until Missive verifies it, then confirm; name the model error (#20)
+- Beta S0.1: per-user config.json replaces John/Claru identity hard-codes (#19)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-76/InboxAgent.zip" length="1716139" type="application/octet-stream" sparkle:edSignature="fXSqGBEf9DSjkJEWHjsPRu9Wqs6ltZCKyGW5wa7ngFdcS/psrs07qXw28Yv7Yr8urOQ8roDwGlrWwOgkCRV6DQ=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (73)</title>
       <pubDate>Wed, 18 Nov 2026 02:51:46 +0000</pubDate>
       <sparkle:version>73</sparkle:version>
