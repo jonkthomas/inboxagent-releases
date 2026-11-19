@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Emptied AI</title>
+    <item>
+      <title>Emptied AI 0.2.0 (95)</title>
+      <pubDate>Thu, 19 Nov 2026 03:30:47 +0000</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Match Slack helper replies to their requests so worker reads can't cross a poll (#40)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-95/InboxAgent.zip" length="113581233" type="application/octet-stream" sparkle:edSignature="bmam+RFBsz+YPrCDqgi1Ua553Guq1iXJSmEXgHSaLDMtJw9nFqEGixqaUv2xWvfejvbeUy5R5M8ZGTmj+DXFBg=="/>
+    </item>
+  </channel>
+</rss>
