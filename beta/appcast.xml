@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (96)</title>
+      <pubDate>Thu, 19 Nov 2026 13:59:10 +0000</pubDate>
+      <sparkle:version>96</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Keep list and card state truthful: Parked, tab counts, failures, Cancel (#41)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-96/InboxAgent.zip" length="113581529" type="application/octet-stream" sparkle:edSignature="g0CIgt0UTP2hL4ou5p7q2Qiv8aZLrAdEOjAu0YGtWs/MALScTDgmYUG88pFRZ6pLGPGZxw+AgQ5Gzd3H3+DNBQ=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (95)</title>
       <pubDate>Thu, 19 Nov 2026 03:30:47 +0000</pubDate>
       <sparkle:version>95</sparkle:version>
