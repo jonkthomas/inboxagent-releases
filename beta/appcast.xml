@@ -3,6 +3,16 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (98)</title>
+      <pubDate>Thu, 19 Nov 2026 14:58:27 +0000</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- List redesign: Needs you / With agent / Parked / Done from one state rule, stable approval footer (#43)
+- Keep the notary password out of argv: pipe it to notarytool's prompt (#42)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-98/InboxAgent.zip" length="113582898" type="application/octet-stream" sparkle:edSignature="XIdLEpiIuX9SBupsteO3Y3H/znwuMet+TpD4M+ZSwvNDS47UrihNw/xsBsEdoZMJUL1SFkrXbNo06E/ir328AQ=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (96)</title>
       <pubDate>Thu, 19 Nov 2026 13:59:10 +0000</pubDate>
       <sparkle:version>96</sparkle:version>
