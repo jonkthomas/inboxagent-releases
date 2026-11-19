@@ -3,6 +3,15 @@
   <channel>
     <title>Inbox Agent</title>
     <item>
+      <title>Emptied AI 0.2.0 (95)</title>
+      <pubDate>Thu, 19 Nov 2026 02:33:28 +0000</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Match Slack helper replies to their requests so worker reads can't cross a poll (#40)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/v0.2.0-95/InboxAgent.zip" length="1855156" type="application/octet-stream" sparkle:edSignature="2Ud+LoLNHKGD6fdmV8zHfFC+GvYv/XJFX9LJkNeQknjHjsyOSEZ818qCVZttpMLhu8MdlOj/euUkxr5OOvLhBg=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (94)</title>
       <pubDate>Wed, 18 Nov 2026 23:44:38 +0000</pubDate>
       <sparkle:version>94</sparkle:version>
