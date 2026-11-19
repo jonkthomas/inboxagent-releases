@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (102)</title>
+      <pubDate>Thu, 19 Nov 2026 21:29:23 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Keep daemon HTTP responsive during remote actions (#47)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-102/InboxAgent.zip" length="113584878" type="application/octet-stream" sparkle:edSignature="uED+WfqrcIZLpxOI/VaW1YWcLfhjn1FEwKcDmzQbgMNUp81kUqv2ShyxNOIX06Tje8Pzoza7yJTThaLjJ5jIBQ=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (101)</title>
       <pubDate>Thu, 19 Nov 2026 20:20:03 +0000</pubDate>
       <sparkle:version>101</sparkle:version>
