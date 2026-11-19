@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (99)</title>
+      <pubDate>Thu, 19 Nov 2026 17:34:22 +0000</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Read the Missive sign-in from the saved profile on daemon start (#44)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-99/InboxAgent.zip" length="113583139" type="application/octet-stream" sparkle:edSignature="/bZpyV+jTeUzSGzb9X1I/k69UeZIrx/QGPJluN3DbVwN4Q5YQ9ALdTzqzBYuIXbp98b5H96o0uglwSr98M1dDg=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (98)</title>
       <pubDate>Thu, 19 Nov 2026 14:58:27 +0000</pubDate>
       <sparkle:version>98</sparkle:version>
