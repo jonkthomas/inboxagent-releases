@@ -3,6 +3,16 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (106)</title>
+      <pubDate>Fri, 20 Nov 2026 16:15:54 +0000</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Keep Missive conversation open during account verification (#52)
+- Name and jump to email and Slack problems from the status pill (#51)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-106/InboxAgent.zip" length="113585812" type="application/octet-stream" sparkle:edSignature="oT8Wj142gruDQdPwjx//Dzm2bZkUgTqJ2bkRwqAb+QGRC79kNAza55lekvFLmzM4z885Ubm6kGyD+mIjnP5dDA=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (104)</title>
       <pubDate>Fri, 20 Nov 2026 14:44:18 +0000</pubDate>
       <sparkle:version>104</sparkle:version>
