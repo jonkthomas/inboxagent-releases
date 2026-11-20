@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (103)</title>
+      <pubDate>Fri, 20 Nov 2026 04:45:44 +0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Missive: let conversation-open reads through the network gate (#49)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-103/InboxAgent.zip" length="113585219" type="application/octet-stream" sparkle:edSignature="SLk1+0x+Owr4Fld4602sD554tkYIDIjy1MxI3WforXtRAbyk29J0doB8ByfzawxImj5qsCULtu+xlylzi9liCA=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (102)</title>
       <pubDate>Thu, 19 Nov 2026 21:29:23 +0000</pubDate>
       <sparkle:version>102</sparkle:version>
