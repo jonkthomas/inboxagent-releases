@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (107)</title>
+      <pubDate>Fri, 20 Nov 2026 18:09:06 +0000</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Allow Missive archive when the approved conversation row is unrendered (#53)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-107/InboxAgent.zip" length="113585980" type="application/octet-stream" sparkle:edSignature="aYGVUMI5DeWZVv6cLlVQjSH+xTy72eUwgbLpbdV9tnGmc+BRy4snFHy3B5JH9hxQilI2uhn6G2IXYGKDHoTUCg=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (106)</title>
       <pubDate>Fri, 20 Nov 2026 16:15:54 +0000</pubDate>
       <sparkle:version>106</sparkle:version>
