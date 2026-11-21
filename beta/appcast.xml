@@ -3,6 +3,16 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (110)</title>
+      <pubDate>Sat, 21 Nov 2026 16:25:38 +0000</pubDate>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Inbox reliability: reliable actions, needs-you vs handled, fresh queue (#56)
+- Replay exact single-conversation Missive archive saves (#55)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-110/InboxAgent.zip" length="113602787" type="application/octet-stream" sparkle:edSignature="uCI4l+H+wL7he5Is8xkkP6fbqMx6Zpv1zr097uPkdTn17VnncCxDe0lQcDZ7xHXbF9qGYY2GhqcB+Yzfb6EoDw=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (108)</title>
       <pubDate>Fri, 20 Nov 2026 20:58:36 +0000</pubDate>
       <sparkle:version>108</sparkle:version>
