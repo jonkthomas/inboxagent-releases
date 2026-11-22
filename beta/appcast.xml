@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (113)</title>
+      <pubDate>Sun, 22 Nov 2026 16:59:07 +0000</pubDate>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Inbox: Later fixes + full audit fixes (beta 113 candidate) (#59)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-113/InboxAgent.zip" length="113660369" type="application/octet-stream" sparkle:edSignature="LaVCnb3A5Wzxeny+Q2PVd2G9d8lu2x9fnRd0Zq4yax6lPJenS2bId891BPr+uelM0l0p5d1PuZ/HkShJl99FCA=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (112)</title>
       <pubDate>Sat, 21 Nov 2026 23:03:35 +0000</pubDate>
       <sparkle:version>112</sparkle:version>
