@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (115)</title>
+      <pubDate>Mon, 23 Nov 2026 14:31:04 +0000</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Fix recipient recovery, send resets, and retired Slack DM binding (#61)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-115/InboxAgent.zip" length="113660678" type="application/octet-stream" sparkle:edSignature="WD9QpDLwH3EJIUbx+lP6VBWcCxc1v3gIkTJ5dkcJ9eNQTawBY2hikOCqb/ioDKsThGI1qkm2mJPNm5rlahUWBA=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (114)</title>
       <pubDate>Mon, 23 Nov 2026 05:25:54 +0000</pubDate>
       <sparkle:version>114</sparkle:version>
