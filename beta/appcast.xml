@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (114)</title>
+      <pubDate>Mon, 23 Nov 2026 05:25:54 +0000</pubDate>
+      <sparkle:version>114</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Slack: reach full sync — attach channel-sent replies to their thread; keep Post on DM cards after a deleted message (beta 114 candidate) (#60)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-114/InboxAgent.zip" length="113660488" type="application/octet-stream" sparkle:edSignature="H00dJl6b0KXDegPts2MumuImycDTXajkcnr2+2E+hPy88gLZBPeqzjuxps2lXBdyt/ZlOz9nfuiwfKKnJn/NAQ=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (113)</title>
       <pubDate>Sun, 22 Nov 2026 16:59:07 +0000</pubDate>
       <sparkle:version>113</sparkle:version>
