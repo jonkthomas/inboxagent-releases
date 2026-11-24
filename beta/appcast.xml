@@ -3,6 +3,15 @@
   <channel>
     <title>Emptied AI</title>
     <item>
+      <title>Emptied AI 0.2.0 (117)</title>
+      <pubDate>Tue, 24 Nov 2026 14:21:11 +0000</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">- Lane parity: full-harness sandboxed agent for lanes, cards and inbound (#63)</description>
+      <enclosure url="https://github.com/jonkthomas/inboxagent-releases/releases/download/beta-v0.2.0-117/InboxAgent.zip" length="113728169" type="application/octet-stream" sparkle:edSignature="0I7yqxlJPC1105Mpmgtnxo0U+nATYQt16SctgRXnZEyoh6bHGTJL/+Zs2aX9SF0jQ9huLl8xUgOO+cSk+bxyBA=="/>
+    </item>
+    <item>
       <title>Emptied AI 0.2.0 (116)</title>
       <pubDate>Mon, 23 Nov 2026 19:39:32 +0000</pubDate>
       <sparkle:version>116</sparkle:version>
